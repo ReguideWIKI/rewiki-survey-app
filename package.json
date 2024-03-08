@@ -1,6 +1,6 @@
 {
   "name": "rewiki-survey-app",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Template application rewiki survey app",
   "main": "index.js",
   "exports": {
@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "react-native-selection-group": "^2.0.0",
-    "rewiki-survey": "^1.0.0"
+    "rewiki-survey": "^1.0.0",
+    "analsorhost-simple-bs":"^1.0.0"
   }
 }
